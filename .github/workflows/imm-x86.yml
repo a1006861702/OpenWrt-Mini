@@ -7,7 +7,7 @@ on:
 
 env:
   REPO_URL: https://github.com/immortalwrt/immortalwrt
-  REPO_BRANCH: immortalwrt-master
+  REPO_BRANCH: master
   FEEDS_CONF: imm.conf.default
   CONFIG_FILE: imm-x86.config
   DIY_P1_SH: DIY-1.sh
