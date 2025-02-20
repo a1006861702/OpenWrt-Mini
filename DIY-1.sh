@@ -18,7 +18,9 @@
 # echo "src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall-packages.git;main" >> "feeds.conf.default"
 
 # 6-添加 lucky 插件
-# git clone https://github.com/sirpdboy/luci-app-lucky.git package/lucky
+git clone https://github.com/sirpdboy/luci-app-lucky.git package/lucky
 
 # 7-添加 wizard 插件
 # git clone https://github.com/sirpdboy/luci-app-wizard package/luci-app-wizard
+
+git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/unblockneteasemusic
