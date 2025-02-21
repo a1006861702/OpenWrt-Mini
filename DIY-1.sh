@@ -23,4 +23,4 @@ git clone https://github.com/sirpdboy/luci-app-lucky.git package/lucky
 # 7-添加 wizard 插件
 # git clone https://github.com/sirpdboy/luci-app-wizard package/luci-app-wizard
 
-git clone https://github.com/sirpdboy/luci-app-ddns-go.git package/ddns-go
+git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/luci-app-unblockneteasemusic
